@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+     text-align:  center;
+     font-family: 'Inter', sans-serif;
+     
+
+}
+.container {
+    background: #6943FF;
+    color: white;
+}
+
+#container-header {
+    font-weight: 800px;
+    font-size: 28px;
+    line-height: 38px;
+     padding-top: 20px;
+     margin-top: 5px; 
+   
+
+}
+
+#container-input {
+   background:  #6943FF;
+   color: white;
+   font-weight: 800px;
+   font-size: 58px;
+   border: 2px solid #B295FF;
+   border-radius: 5px;
+   text-align: center;
+   width: 171px;
+   height: 91px;
+   line-height: 24.39px;
+   vertical-align: top;
+   
+}
+#container-btn {
+    margin-top: 30px;
+    margin-bottom:30px; 
+    font-weight: 500px;
+    width: 171px;
+    height: 46px;
+    border: 2px solid #B295FF;
+    border-radius:  5px;
+}
+
+
+
+.conversion {
+    background: #1F2937;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
+
+#feet-conv {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background: #273549;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #CCC1FF;
+    line-height: 20px;
+    width: 500px;
+    height: 108.57;
+}
+
+#gallon-conv {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: #273549;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    line-height: 20px;
+    color: #CCC1FF;
+    width: 500px;
+    height: 108.57;
+}
+#pounds-conv {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background: #273549;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #CCC1FF;
+    line-height: 20px;
+    width: 500px;
+    height: 108.57;
+}
